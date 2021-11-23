@@ -1,1 +1,3 @@
 This is my first file for gitHub
+
+This is my additional text to this file ok
